@@ -1,4 +1,4 @@
 # PlanetHoppingGame
-# Software Engineering Project
+Software Engineering Project
 
-# Aryan Cheema, Arshia Rahim, Pratik Patel, Belinda Juncaj
+Aryan Cheema, Arshia Rahim, Pratik Patel, Belinda Juncaj
